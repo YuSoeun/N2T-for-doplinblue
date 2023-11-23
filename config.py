@@ -5,7 +5,7 @@ cfg = dotdict(
         ID='kakao email',
         PW='kakao password',
         BLOG_NAME='',
-        SECRET_KEY='',
+        SECRET_KEY='d',
         CLIENT_ID='',
         REDIRECT_URI='',
     ),
