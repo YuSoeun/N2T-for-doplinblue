@@ -47,6 +47,15 @@ git clone https://github.com/jmjeon94/N2T.git
 pip3 install -r requirements.txt
 ```
 
+- 만약 pip3이 없다면 아래 명령어로 pip3을 install해줍니다.
+```bash
+sudo apt update
+```
+```bash
+sudo apt install python3-pip
+```
+
+
 ## 설정 파일 입력하기
 
 config.py 파일을 열고 각 항목에 본인에 맞게 값을 입력해줍니다.  
