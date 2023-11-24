@@ -1,5 +1,9 @@
 from typing import List
 from notion.client import NotionClient
+import inspect
+import random
+
+print("========>inspect: " + inspect.getfile(NotionClient))
 
 NOTION_API_ROOT = "https://www.notion.so/api/v3"
 BLOCK_SIZE = 1024  # download 1KB
