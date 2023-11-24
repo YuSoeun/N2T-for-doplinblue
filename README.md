@@ -67,6 +67,7 @@ config.py 파일을 열고 각 항목에 본인에 맞게 값을 입력해줍니
 - BLOG_NAME: 본인의 블로그 이름 xxx.tistory.com 에서 xxx를 입력 합니다.
 - SECRET KEY, CLIENT ID, REDIRECT_URI: [Open API 등록](https://www.tistory.com/guide/api/manage/register) 시 발급받은 값을 입력합니다.
     - [Open API 등록 방법](https://minimin2.tistory.com/82)
+    - [Open API 등록이 잘 되지 않는다면?] (https://icea.tistory.com/22?category=572409)
 
 ### Notion 설정
 
